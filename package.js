@@ -2,7 +2,7 @@ Package.describe({
   git: 'https://github.com/zimme/meteor-bootstrap-growl.git',
   name: 'zimme:bootstrap-growl',
   summary: 'Turns standard Bootstrap alerts into "Growl-like" notifications.',
-  version: '0.1.0',
+  version: '2.0.1',
 });
 
 Package.onUse(function(api) {
